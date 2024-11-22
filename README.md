@@ -19,12 +19,12 @@ I enjoy working with:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blockchainDevAmitesh&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ## 📫 Get in Touch
 
 - **Email**: blockchaindev.amitesh@gmail.com
-- **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/amitesh-gautam-1327a7336)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/amitesh-gautam-1327a7336)
 
 Feel free to check out my repositories and don’t hesitate to reach out if you want to collaborate or just say hi!
 
