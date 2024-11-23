@@ -24,7 +24,6 @@ I enjoy working with:
 ## 📫 Get in Touch
 
 - **Email**: blockchaindev.amitesh@gmail.com
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/amitesh-gautam-1327a7336)
 
 Feel free to check out my repositories and don’t hesitate to reach out if you want to collaborate or just say hi!
 
